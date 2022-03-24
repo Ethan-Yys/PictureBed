@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 模型结构.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		xmlns:v="http://schemas.microsoft.com/visio/2003/SVGExtensions/" width="0.479385in" height="0.290409in"
+		viewBox="0 0 34.5157 20.9094" xml:space="preserve" color-interpolation-filters="sRGB" class="st4">
+	<v:documentProperties v:langID="2052" v:metric="true" v:viewMarkup="false"/>
+
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:none;stroke:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:0.5}
+		.st2 {fill:#000000;font-family:Times New Roman;font-size:0.75em;font-style:italic;font-weight:bold}
+		.st3 {baseline-shift:33.3496%;font-family:宋体;font-size:0.666992em}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<g v:mID="0" v:index="1" v:groupContext="foregroundPage">
+		<title>页-1</title>
+		<v:pageProperties v:drawingScale="0.0393701" v:pageScale="0.0393701" v:drawingUnits="24" v:shadowOffsetX="8.50394"
+				v:shadowOffsetY="-8.50394"/>
+		<g id="shape603-1" v:mID="603" v:groupContext="shape" transform="translate(0.25,-0.25)">
+			<title>工作表.603</title>
+			<desc>S’</desc>
+			<v:textBlock v:margins="rect(4,4,4,4)" v:tabSpace="42.5197"/>
+			<v:textRect cx="17.0079" cy="10.7047" width="34.02" height="20.4094"/>
+			<rect x="0" y="0.500001" width="34.0157" height="20.4094" class="st1"/>
+			<text x="11.49" y="13.68" class="st2" v:langID="2052"><v:paragraph v:horizAlign="1"/><v:tabList/>S<tspan dy="0.049em"
+						class="st3" v:baseFontSize="9">’</tspan></text>		</g>
+	</g>
+</svg>
